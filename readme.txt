@@ -1,6 +1,5 @@
-»·¾³ÊÇVS2012£¬OpenCV 3.0.0
-ÅäÖÃÁËOpenCV¿âºÍÓÚÊËì÷ÀÏÊ¦µÄFacedetect¿â£¬ÐèÒªÌí¼Óopencv_world300.dllºÍlibfacedetect.dll¡£
-²»¹ýÔÚdebug»·¾³ÏÂÐèÒªÌí¼Óopencv_world300d.dll¡£
-²»ÐèÒª¹Ø¼üµãµÄtxtÎÄ¼þ£¬³ÌÐò»á×Ô¶¯¼ì²âÈËÁ³µÄ¹Ø¼üµã¡£
-³ÌÐòÖ´ÐÐÖ®ºóÖ»ÐèÒª°´ÕÕÌáÊ¾½øÐÐ¼´¿É¡£
-Êä³ö½á¹û·ÅÁËÈýÕÅ£¬·Ö±ð¶ÔÓ¦Èý´Î²åÖµ½á¹û
+çŽ¯å¢ƒæ˜¯VS2012ï¼ŒOpenCV 3.0.0
+é…ç½®äº†OpenCVåº“å’ŒäºŽä»•ç¥ºè€å¸ˆçš„Facedetectåº“
+OpenCVçš„é…ç½®å°±æ˜¯å¸¸è§„çš„ä¸€äº›æ“ä½œï¼ŒFacedetectåº“å°±æŠŠlibfacedetect.dllæ·»åŠ åˆ°å¤–éƒ¨ä¾èµ–é¡¹å°±å¯ä»¥äº†ã€‚
+ç¨‹åºä¼šè‡ªåŠ¨æ£€æµ‹äººè„¸çš„å…³é”®ç‚¹ï¼Œå¹¶è¾“å‡ºä¸ºTXTã€‚
+ç¨‹åºæ‰§è¡Œä¹‹åŽåªéœ€è¦æŒ‰ç…§æç¤ºè¿›è¡Œå³å¯ã€‚
